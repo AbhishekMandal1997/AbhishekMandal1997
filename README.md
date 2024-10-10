@@ -1,49 +1,18 @@
-<h1 align="center">Hello World! 👋 I'm Abhishek Mandal</h1>
+# 💫 About Me:
+Hi there 👋, I'm Abhishek Mandal<br>🚀 Full Stack Web Developer | Problem Solver | Quick Learner<br>I'm a passionate Full Stack Web Developer with a background in commerce who found a love for technology and web development. I specialize in building clean, professional, and responsive web applications using React, Redux, JavaScript, and other modern web technologies.
 
-<h5 align="center">Hi there 👋, I'm Abhishek Mandal
-🚀 Full Stack Web Developer | Problem Solver | Quick Learner
-I'm a passionate Full Stack Web Developer with a background in commerce who found a love for technology and web development. I specialize in building clean, professional, and responsive web applications using React, Redux, JavaScript, and other modern web technologies.
 
-</h5><br>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-mandal-2129bh) 
 
-<h2 align="left">Some Facts About Me</h2>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AbhishekMandal1997&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekMandal1997&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekMandal1997&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on **Mere Mann Ka Dabba**
+---
+[![](https://visitcount.itsvg.in/api?id=AbhishekMandal1997&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently learning **NodeJS**
-
-<h2 align="left">Skillset</h2>
-
-<h3 align="left">Programming Languages:</h3>
-
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" width='40' height='40' title='javascript'/></p>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek Mandal&show_icons=true&locale=en&layout=compact" />
-
-<h3 align="left">Frontend Development:</h3>
-
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/reactjs.svg" width='40' height='40' title='reactjs'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/html.svg" width='40' height='40' title='html'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/css.svg" width='40' height='40' title='css'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/redux.svg" width='40' height='40' title='redux'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/babel.svg" width='40' height='40' title='babel'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/tailwind.svg" width='40' height='40' title='tailwind'/></p>
-
-<h3 align="left">Backend Development:</h3>
-
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nodejs.svg" width='40' height='40' title='nodejs'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/express.svg" width='40' height='40' title='express'/></p>
-
-<h3 align="left">Database Management:</h3>
-
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mongodb.svg" width='40' height='40' title='mongodb'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mysql.svg" width='40' height='40' title='mysql'/></p>
-
-<h3 align="left">Softwares:</h3>
-
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/figma.svg" width='40' height='40' title='figma'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/postman.svg" width='40' height='40' title='postman'/></p>
-
-<br><hr><br>
-
-<img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Abhishek Mandal" />
-
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=Abhishek Mandal&show_icons=true&locale=en" />
-
-<img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek Mandal&" />
-
-<h2 align="left">Connect with Me</h2>
-
-<p align='left'><a href="https://github.com/AbhishekMandal1997"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height='40' title="github"/></a><a href="https://www.linkedin.com/in/abhishek-mandal-2129bh"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height='40' title="linked-in-alt"/></a><a href="abhishekabk1997@gmail.com"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/google.svg" width="40" height='40' title="google"/></a><a href="226022"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/topcoder.svg" width="40" height='40' title="topcoder"/></a></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
