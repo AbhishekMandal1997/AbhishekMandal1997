@@ -23,7 +23,7 @@ Hi there 👋, I'm Abhishek Mandal<br>🚀 Full Stack Web Developer | Problem So
 ### 2. Web-Weightlifters
 [GitHub Repo](https://github.com/himanshuladekar/Web-Weightlifters_031)
 - **Tech Stack:** HTML, CSS, JavaScript, Bootstrap
-- **Details:** A fitness and gym equipment website, providing users with product information and purchase options.
+- **Details:** A clone of Reebok website, providing users with product information and purchase options.
 
 ### 3. Cafe Serene
 [GitHub Repo](https://github.com/AbhishekMandal1997/Cafe-Serene.git)
@@ -33,7 +33,7 @@ Hi there 👋, I'm Abhishek Mandal<br>🚀 Full Stack Web Developer | Problem So
 ### 4. Federalism Frontend
 [GitHub Repo](https://github.com/AbhishekMandal1997/Federalism-Frontend_016-.git)
 - **Tech Stack:** HTML, CSS, React
-- **Details:** A React-based frontend website with modern UI and interactive features.
+- **Details:** A HTML CSS frontend website with modern UI and interactive features.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AbhishekMandal1997&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
