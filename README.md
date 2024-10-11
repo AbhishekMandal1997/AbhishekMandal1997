@@ -16,24 +16,24 @@ Hi there 👋, I'm Abhishek Mandal<br>🚀 Full Stack Web Developer | Problem So
 # My Projects:
 
 ### 1. Behance Clone
-[GitHub Repo](https://github.com/DPratap101/Behance-Clone.git)
+[GitHub Repo](https://github.com/DPratap101/Behance-Clone.git) | [Deployed Link](https://digital-democracy-030.vercel.app/)
 - **Tech Stack:** HTML, CSS, JavaScript, Bootstrap
 - **Details:** A clone of Behance showcasing creative projects with a focus on UI and responsive design.
 
 ### 2. Web-Weightlifters
-[GitHub Repo](https://github.com/himanshuladekar/Web-Weightlifters_031)
+[GitHub Repo](https://github.com/himanshuladekar/Web-Weightlifters_031) | [Deployed Link](https://sweet-alpaca-1caacd.netlify.app/)
 - **Tech Stack:** HTML, CSS, JavaScript, Bootstrap
-- **Details:** A clone of Reebok website, providing users with product information and purchase options.
+- **Details:** A fitness and gym equipment website, providing users with product information and purchase options.
 
 ### 3. Cafe Serene
-[GitHub Repo](https://github.com/AbhishekMandal1997/Cafe-Serene.git)
+[GitHub Repo](https://github.com/AbhishekMandal1997/Cafe-Serene.git) | [Deployed Link](https://cafeserene.netlify.app/)
 - **Tech Stack:** HTML, CSS, JavaScript
 - **Details:** A website designed for a cafe, with a minimalistic design and menu management system.
 
 ### 4. Federalism Frontend
-[GitHub Repo](https://github.com/AbhishekMandal1997/Federalism-Frontend_016-.git)
+[GitHub Repo](https://github.com/AbhishekMandal1997/Federalism-Frontend_016-.git) | [Deployed Link](https://66dd4441366cde50b303f328--aquamarine-maamoul-81f646.netlify.app/)
 - **Tech Stack:** HTML, CSS, React
-- **Details:** A HTML CSS frontend website with modern UI and interactive features.
+- **Details:** A React-based frontend website with modern UI and interactive features.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AbhishekMandal1997&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
