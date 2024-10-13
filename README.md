@@ -5,7 +5,7 @@ Hi there 👋, I'm Abhishek Mandal🚀<br> Full Stack Web Developer | Problem So
 [Click here to view my portfolio](https://incomparable-youtiao-f619d9.netlify.app/)
 
 # 📄 Resume:
-[Download my Resume](https://drive.google.com/file/d/1OQf2QBWbPmlFX7Mj-ITLagBG79pUQa0X/view?usp=sharing)
+[Download my Resume](https://drive.google.com/file/d/1Gv6FQ4CcGW4IZLLBXZfMvdDpaACnxmAW/view?usp=sharing)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-mandal-2129bh) 
