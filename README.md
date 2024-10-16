@@ -2,10 +2,10 @@
 Hi there 👋, I'm Abhishek Mandal🚀<br> Full Stack Web Developer | Problem Solver | Quick Learner<br>I'm a passionate Full Stack Web Developer with a background in commerce who found a love for technology and web development. I specialize in building clean, professional, and responsive web applications using React, Redux, JavaScript, and other modern web technologies.
 
 # My Portfolio:
-[Click here to view my portfolio](https://stunning-marshmallow-b5a74e.netlify.app/)
+[Click here to view my portfolio](https://keen-selkie-559d77.netlify.app/)
 
 # 📄 Resume:
-[Download my Resume](https://drive.google.com/file/d/1Gv6FQ4CcGW4IZLLBXZfMvdDpaACnxmAW/view?usp=sharing)
+[Download my Resume](https://drive.google.com/uc?export=download&id=1dUnSYw2TGQfA_5bupYb6nqMyZc1OsgH1)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-mandal-2129bh) 
