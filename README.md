@@ -5,7 +5,7 @@ Hi there 👋, I'm Abhishek Mandal🚀<br> Full Stack Web Developer | Problem So
 [Click here to view my portfolio](https://celadon-blini-d8c3a4.netlify.app/)
 
 # 📄 Resume:
-[Download my Resume](https://drive.google.com/uc?export=download&id=1Xk_rPh0tmEB80oWYyrmP4pjgSEqVzYSY)
+[Download my Resume](https://drive.google.com/uc?export=download&id=14apEq23aWo99-ri4aQVVDV0ApfrY3xdg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-mandal-2129bh) 
